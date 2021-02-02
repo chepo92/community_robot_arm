@@ -1,5 +1,5 @@
 #include "fanControl.h"
-#include "Arduino.h"
+#include <Arduino.h>
 
 
 FanControl::FanControl(int aPin, int aFanDelay) {
