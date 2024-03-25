@@ -1,7 +1,7 @@
 # community_robot_arm 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yh1NoQ2Z36A/0.jpg)](https://www.youtube.com/watch?v=yh1NoQ2Z36A)
 
-Community robot arm is an open source collaboration project participated by an online community of learners & developers. It was developed based on the original design by [Florin Tobler](https://www.thingiverse.com/1718984)<br/> with multiple rounds of open hardware & software modification.
+Community robot arm is an open source collaboration project participated by an online community of learners & developers. Clear background and documentation about the project is available [here](https://www.20sffactory.com/robot/about)<br/>. It was developed based on the original design by [Florin Tobler](https://www.thingiverse.com/1718984)<br/> with multiple rounds of open hardware & software modification.
 
 **REPOSITORY OF COMMUNITY ROBOT ARM**
 * arduino_firmware Version V0.81 (07Aug2021)
@@ -30,7 +30,9 @@ Community robot arm is an open source collaboration project participated by an o
   - E Axis (Rail) Option enabled
 * CAD_files contains STL & STEP files
 
-[Facebook Support Community](https://www.facebook.com/groups/robotarm)<br/>
+[Facebook Group](https://www.facebook.com/groups/robotarm)<br/>
+[Discord Group](https://discord.gg/W5GUR7eSru)<br/>
+
 
 Graphical contents and CAD files are licensed under CC BY 4.0 License. Community Firmware is licensed under GNU-3.0 License.
 
